@@ -11,11 +11,11 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to partcipate in athlete games
 <img align="right" alt="GIF" src="https://github.com/Abhisek-Ray99/Abhisek-Ray99/blob/master/code.gif?raw=true" width="500" height="320" />
-
+<iframe src="https://open.spotify.com/embed/album/0Ba6eisjNsgEEjKYXenN1k" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="250" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhisek Spotify Playing" width="250" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
 
 ### Connect with me:
 
@@ -29,7 +29,7 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="26px" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -52,8 +52,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://ecstatic-kepler-b4fa73.netlify.app/home
+[twitter]: 
+[instagram]: 
+[linkedin]: https://www.linkedin.com/in/abhisek-ray-b294a71a6/
 
