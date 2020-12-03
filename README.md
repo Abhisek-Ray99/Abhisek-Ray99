@@ -11,11 +11,11 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to partcipate in athlete games
 <img align="right" alt="GIF" src="https://github.com/Abhisek-Ray99/Abhisek-Ray99/blob/master/code.gif?raw=true" width="500" height="320" />
-<iframe src="https://open.spotify.com/embed/album/0Ba6eisjNsgEEjKYXenN1k" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhisek Spotify Playing" width="250" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=3dkw84ddqfmgsc6t9bcmyelt4&cover_image=true&theme=default" alt=" Spotify Playing" width="250" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
 
 ### Connect with me:
 
