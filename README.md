@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhisek Ray <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://ecstatic-kepler-b4fa73.netlify.app/home)](https://ecstatic-kepler-b4fa73.netlify.app/home)
 
 
 ## I'm a fullstack web Developer from india!!
@@ -19,10 +19,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="abhisek ray" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<img align="left" alt="abhisek ray | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+[<img align="left" alt="abhisek ray | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="abhisek ray | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
@@ -52,8 +52,6 @@
 
 </details>
 
-[website]: https://ecstatic-kepler-b4fa73.netlify.app/home
-[twitter]: 
-[instagram]: 
+[website]: https://ecstatic-kepler-b4fa73.netlify.app/home 
 [linkedin]: https://www.linkedin.com/in/abhisek-ray-b294a71a6/
 
