@@ -48,7 +48,7 @@
 <br />
 
 ---
-<img align="left" alt="abhisek_ray github stats" src="https://github-readme-stats.vercel.app/api?username=Abhisek-Ray99&show_icons=true&hide_border=true&theme=cobalt" />
+<img align="left" alt="abhisek_ray github stats" src="https://github-readme-stats.vercel.app/api?username=Abhisek-Ray99&show_icons=true&hide_border=true&theme=gruvbox" />
 
 </details>
 
