@@ -48,8 +48,9 @@
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Ray99&layout=compact)](https://github.com/Abhisek-Ray99/github-readme-stats)
-<img align="left" alt="abhisek_ray github stats" src="https://github-readme-stats.vercel.app/api?username=Abhisek-Ray99&show_icons=true&hide_border=true&theme=dark" />
+flex([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Ray99&layout=compact)](https://github.com/Abhisek-Ray99/github-readme-stats)
+<img align="left" alt="abhisek_ray github stats" src="https://github-readme-stats.vercel.app/api?username=Abhisek-Ray99&show_icons=true&hide_border=true&theme=dark" />)
+
 
 
 </details>
