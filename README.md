@@ -50,14 +50,10 @@
 ---
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Abhisek-Ray99&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Ray99&layout=compact" style="vertical-align: top;" />
   </div>
 </div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Ray99&layout=compact)](https://github.com/Abhisek-Ray99/github-readme-stats)
-<img align="left" alt="abhisek_ray github stats" src="https://github-readme-stats.vercel.app/api?username=Abhisek-Ray99&show_icons=true&hide_border=true&theme=dark" />
 
 
 </details>
