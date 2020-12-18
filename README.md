@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to partcipate in athlete games
-<img align="right" alt="GIF" src="./abhisekray.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="./github.gif?raw=true" width="500" height="320" />
 
 
 ### Spotify Playing 🎧
