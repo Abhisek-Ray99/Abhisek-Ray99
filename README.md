@@ -6,9 +6,8 @@
 ## I'm a fullstack web Developer from india!!
 
 - 🔭 I currently learning reactJS and django!
-- 🌱 I’m a student in computer science🤣
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯I’m a student in computer science
+- 🥅 2021 Goals: Contribute more to Open Source projects and develop some more skills.
 - ⚡ Fun fact: I love to partcipate in athlete games
 <img align="right" alt="GIF" src="./github.gif?raw=true" width="580" height="400" />
 
@@ -17,14 +16,6 @@
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=3dkw84ddqfmgsc6t9bcmyelt4&cover_image=true&theme=default" alt=" Spotify Playing" width="250" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
 
-### Connect with me:
-
-[<img align="left" alt="abhisek ray" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="abhisek ray | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="abhisek ray | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="abhisek ray | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -57,8 +48,3 @@
 
 
 </details>
-
-[website]: https://ecstatic-kepler-b4fa73.netlify.app/home 
-[linkedin]: https://www.linkedin.com/in/abhisek-ray-b294a71a6/
-[twitter]: https://twitter.com/Abhisek48318017
-[instagram]: https://www.instagram.com/rickyab1/
