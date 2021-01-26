@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="./github.gif?raw=true" width="540" height="350" />
 
 
-### [<img src="https://spotify-github-profile.vercel.app/api/view?uid=3dkw84ddqfmgsc6t9bcmyelt4&cover_image=true&theme=default" alt=" Spotify Playing" width="250" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
+### [<img src="https://spotify-github-profile.vercel.app/api/view?uid=3dkw84ddqfmgsc6t9bcmyelt4&cover_image=true&theme=default" alt=" Spotify Playing" width="250" height="150" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
 
 
 ###
