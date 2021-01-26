@@ -32,8 +32,8 @@
 ---
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abhisek-Ray99&show_icons=true&theme=dark" widht="280" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Ray99&layout=compact" style="vertical-align: top;" widht="220" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Abhisek-Ray99&show_icons=true&theme=dark" widht="200" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Ray99&layout=compact" style="vertical-align: top;" widht="160" height="200" />
   </div>
 </div>
 </details>
