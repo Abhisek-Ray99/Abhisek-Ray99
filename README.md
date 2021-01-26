@@ -6,7 +6,7 @@
 - 💻 I’m a student in computer science
 - 🥅 2021 Goals: Contribute more to Open Source projects and develop some more skills.
 - ⚡ Fun fact: I love to partcipate in athlete games
-<img align="right" alt="GIF" src="./github.gif?raw=true" width="580" height="280" />
+<img align="right" alt="GIF" src="./github.gif?raw=true" width="580" height="300" />
 
 
 ### [<img src="https://spotify-github-profile.vercel.app/api/view?uid=3dkw84ddqfmgsc6t9bcmyelt4&cover_image=true&theme=default" alt=" Spotify Playing" width="240" height="280" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
