@@ -1,4 +1,4 @@
-### 👱Hi there, I'm Abhisek Ray <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🇮🇳
+### 👱Hi there, I'm Abhisek Ray🇮🇳 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website](https://img.shields.io/twitter/url?color=red&label=Portfolio&logo=Abhisek%20ray&style=for-the-badge&url=https%3A%2F%2Fecstatic-kepler-b4fa73.netlify.app%2Fhome)](https://ecstatic-kepler-b4fa73.netlify.app/home)
 ##
@@ -12,8 +12,7 @@
 ### [<img src="https://spotify-github-profile.vercel.app/api/view?uid=3dkw84ddqfmgsc6t9bcmyelt4&cover_image=true&theme=default" alt=" Spotify Playing" width="250" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
 
 
-### Languages and Tools:
-
+###
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -27,8 +26,6 @@
 <img align="left" alt="Postgre sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-
-
 <br />
 <br />
 
@@ -39,6 +36,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Ray99&layout=compact" style="vertical-align: top;" />
   </div>
 </div>
-
-
 </details>
