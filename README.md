@@ -1,8 +1,8 @@
-### 👱Hi there, I'm Abhisek Ray <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### 👱Hi there, I'm Abhisek Ray <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🇮🇳
 
 [![Website](https://img.shields.io/twitter/url?color=red&label=Portfolio&logo=Abhisek%20ray&style=for-the-badge&url=https%3A%2F%2Fecstatic-kepler-b4fa73.netlify.app%2Fhome)](https://ecstatic-kepler-b4fa73.netlify.app/home)
 ##
-- 🔭 I currently learning reactJS and django!
+- 🔭 I currently learning ReactJS and django!
 - 💻 I’m a student in computer science
 - 🥅 2021 Goals: Contribute more to Open Source projects and develop some more skills.
 - ⚡ Fun fact: I love to partcipate in athlete games
