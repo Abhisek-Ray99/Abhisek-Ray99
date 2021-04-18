@@ -2,8 +2,8 @@
 
 [![Website](https://img.shields.io/twitter/url?color=red&label=Portfolio&logo=Abhisek%20ray&style=for-the-badge&url=https%3A%2F%2Fecstatic-kepler-b4fa73.netlify.app%2Fhome)](https://ecstatic-kepler-b4fa73.netlify.app/home)
 ##
-- 🔭 I currently learning ReactJS and django!⚡
-- 💻 I’m a student in computer science⚡
+- 🔭 I currently learning ReactJS and React-Native!⚡
+- 💻 I’m a computer science Geek⚡
 - 🥅 2021 Goals: Contribute more to Open Source projects and develop some more skills.⚡
 <img align="right" alt="GIF" src="./github.gif?raw=true" width="594" height="300" />
 
