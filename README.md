@@ -1,6 +1,6 @@
 ### 👱Hi there, I'm Abhisek Ray💼 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Website](https://img.shields.io/twitter/url?color=red&label=Portfolio&logo=Abhisek%20ray&style=for-the-badge&url=https%3A%2F%2Fecstatic-kepler-b4fa73.netlify.app%2Fhome)](https://rickyray.netlify.app/)
+[![Website](https://img.shields.io/twitter/url?color=red&label=Portfolio&logo=Abhisek%20ray&style=for-the-badge&url=https://rickyray.netlify.app)](https://rickyray.netlify.app/)
 ##
 - 🔭 I currently learning ReactJS and React-Native!⚡
 - 💻 I’m a computer science Geek⚡
