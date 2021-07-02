@@ -5,7 +5,7 @@
 - 🔭 I currently learning ReactJS and React-Native!⚡
 - 💻 I’m a computer science Geek⚡
 - 🥅 2021 Goals: Contribute more to Open Source projects and develop some more skills.⚡
-<img align="right" alt="GIF" src="https://tenor.com/bzpPM.gif" width="594" height="300" />
+<img align="right" alt="GIF" src="./Abhisek Ray.gif" width="594" height="300" />
 
 
 ### [<img src="https://spotify-github-profile.vercel.app/api/view?uid=3dkw84ddqfmgsc6t9bcmyelt4&cover_image=true&theme=default" alt=" Spotify Playing" width="240" height="300" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
