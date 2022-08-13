@@ -1,6 +1,8 @@
 ### 👱Hi there, I'm Abhisek Ray💼 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website](https://img.shields.io/twitter/url?color=red&label=Portfolio&logo=Abhisek%20ray&style=for-the-badge&url=https://rickyray.netlify.app)](https://rickyray.netlify.app/)
+<img src="https://gpvc.arturio.dev/Abhisek-Ray99" alt="Profile views"/>
+
 ##
 - 🔭 I currently learning Gatsby.js and React-Native!⚡
 - 💻 I’m a computer science Geek⚡
