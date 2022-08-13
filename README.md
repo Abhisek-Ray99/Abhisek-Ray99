@@ -5,7 +5,7 @@
 - 🔭 I currently learning Gatsby.js and React-Native!⚡
 - 💻 I’m a computer science Geek⚡
 - 🥅 2021 Goals: Contribute more to Open Source projects and develop some more skills.⚡
-<img align="right" alt="GIF" src="./Lol1.gif" width="574" height="290" />
+<img align="right" alt="GIF" src="./Lol1.gif" width="400" height="290" />
 
 
 ## LeetCode for lyfe! ([profile](https://leetcode.com/rickyrayabhisek99))
