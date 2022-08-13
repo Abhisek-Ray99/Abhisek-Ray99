@@ -8,7 +8,8 @@
 <img align="right" alt="GIF" src="./Lol1.gif" width="574" height="290" />
 
 
-### [<img src="https://spotify-github-profile.vercel.app/api/view?uid=3dkw84ddqfmgsc6t9bcmyelt4&cover_image=true&theme=default" alt=" Spotify Playing" width="240" height="300" />](https://open.spotify.com/track/4PwPqU5GVcGO7olpcFPGnF)
+## LeetCode for lyfe! ([profile](https://leetcode.com/rickyrayabhisek99))
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rickyrayabhisek99)](https://github.com/KnlnKS/leetcode-stats)
 
 
 ###
