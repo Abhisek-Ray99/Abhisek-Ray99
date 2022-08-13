@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" src="./Lol1.gif" width="400" height="290" />
 
 
-## LeetCode for lyfe! ([profile](https://leetcode.com/rickyrayabhisek99))
+
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rickyrayabhisek99)](https://github.com/KnlnKS/leetcode-stats)
 
 
