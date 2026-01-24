@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/twitter/url?color=red&label=Portfolio&logo=Abhisek%20ray&style=for-the-badge&url=https://rickyray.netlify.app)](https://rickyray.netlify.app/)
 
 ##
-- 🔭 I currently learning Gatsby.js and React-Native!⚡
+- 🔭 I am currently learning iOS development⚡
 - 💻 I’m a computer science Geek⚡
 - 🥅 2021 Goals: Contribute more to Open Source projects and develop some more skills.⚡
 <img align="right" alt="GIF" src="./Lol1.gif" width="440" height="250" />
