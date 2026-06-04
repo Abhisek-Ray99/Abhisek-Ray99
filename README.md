@@ -1,105 +1,66 @@
-<h1 align="center">Hey there, I'm Abhisek Ray 👋</h1>
+# Hi, I'm Abhisek Ray 👋
 
-<p align="center">
-  <b>iOS & Mobile Engineer · Full-Stack Developer · AI Enthusiast</b><br/>
-  Building polished apps for the App Store and beyond
-</p>
+📍 **India** | 📱 **Mobile Engineer** | 🤖 **AI-powered app builder**
 
-<p align="center">
-  <a href="https://bluemann.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-bluemann.netlify.app-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="mailto:abhisekray99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
+[![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactnative.dev)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
 
----
+> Shipping mobile apps — iOS and Android — for real users, real companies, and real problems. Love the intersection of clean UI and AI. Currently building with Swift, React Native, and anything that makes products move faster.
 
-## 👨‍💻 About Me
-
-- 🚀 Mobile engineer focused on **iOS (Swift/SwiftUI)** and **cross-platform (React Native/Expo)**
-- 🧠 Passionate about **AI-powered apps** — integrating Codex, Claude, and other LLMs into real products
-- 🌏 Building apps used by people across the globe — from NZ to the US
-- 🔭 Currently diving deeper into **SwiftUI** and **native iOS architecture**
-- 💬 Ask me about **React Native, Expo, Swift, TypeScript, Node.js, or CLI tools**
-- ⚡ CS graduate with a love for clean code and great UX
+🌐 **[bluemann.netlify.app](https://bluemann.netlify.app/)** — my portfolio
 
 ---
 
-## 🛠️ Tech Stack
+## Shipped Apps
 
-### Mobile
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+* 📋 **[Flip](https://apps.apple.com/us/app/flip-app/id1505736692)** · [Android](https://play.google.com/store/apps/details?id=com.employeeapp.android) — AI-native employee experience platform. Company news, chat, HR self-service, shift tools, and AI agents — one app for 500+ enterprises worldwide. 95%+ adoption rates.
 
-### Web & Backend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+* 💘 **[Spark Love](https://apps.apple.com/nz/app/spark-love-dating-experiences/id6478582363)** · [Android](https://play.google.com/store/apps/details?id=com.spark.love) — Experiential dating app. No doom-swiping. Real profiles, limited Sparks, and bookable date experiences. Match to meet in moments.
 
-### AI & Tooling
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-6C3EB8?style=flat-square&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+* 🚧 **[EZ Debris](https://apps.apple.com/us/app/enr-ez-debris-app/id6758752921)** · [Android](https://play.google.com/store/apps/details?id=com.enr.debrisapp) — Disaster debris field operations. Certify trucks, create tickets, print via Zebra, and tag loads with NFC — all offline-capable from the field.
 
 ---
 
-## 📱 Shipped Apps
+## Web Projects
 
-### 🔴 Flip — AI-Native Employee App
-> Enterprise communication platform with AI search, HR self-service, and team workflows. Used by 500+ companies worldwide.
-
-[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/flip-app/id1505736692)
-![Business](https://img.shields.io/badge/Category-Business-lightgrey?style=flat-square)
-![Rating](https://img.shields.io/badge/Rating-5.0%20★-gold?style=flat-square)
+* 🎨 **[AppIcon Studio](https://appiconstudio.netlify.app)** — Generate, preview, and export app icons across every platform size. Built for developers and designers who don't want to think about icon specs.
 
 ---
 
-### 💘 Spark Love — Dating Experiences
-> A no-swipe experiential dating app connecting people through curated real-world dates. Available on iOS & Android.
+## What I'm Doing
 
-[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/nz/app/spark-love-dating-experiences/id6478582363)
-[![Play Store](https://img.shields.io/badge/Google%20Play-Download-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spark.love)
-![Lifestyle](https://img.shields.io/badge/Category-Lifestyle-lightgrey?style=flat-square)
-![Rating](https://img.shields.io/badge/Rating-5.0%20★-gold?style=flat-square)
-
----
-
-## 🌐 Web Projects
-
-### 🎨 AppIcon Studio
-> Tool for developers and designers to generate, preview, and export app icons across all platform sizes.
-
-[![Live](https://img.shields.io/badge/Live-appiconstudio.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://appiconstudio.netlify.app)
+* **Shipping cross-platform** — most of my work lives on both App Store and Google Play; I think in React Native and SwiftUI simultaneously
+* **Integrating AI into everything** — Claude, Codex, and Antigravity are first-class tools in my workflow, not afterthoughts
+* **Going deeper on iOS** — SwiftUI, Swift concurrency, native architecture. The web is great but native still has the edge where it counts
+* **Building field-ready tools** — apps like EZ Debris taught me that "works in production" means works with spotty signal, gloves on, and a Zebra printer
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhisek-Ray99&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Ray99&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+[![GitHub Contribution Graph](https://ghchart.rshah.org/Abhisek-Ray99)](https://github.com/Abhisek-Ray99)
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
-<p align="left">
-  <a href="https://bluemann.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/-bluemann.netlify.app-0A0A0A?style=flat-square&logo=netlify&logoColor=white)](https://bluemann.netlify.app/)
+[![Email](https://img.shields.io/badge/-abhisek@giskernel.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhisek@giskernel.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhisek-Ray99)
 
 ---
 
-<p align="center">
-  <i>"Ship things. Learn fast. Build what matters."</i>
-</p>
+### Philosophy
+
+> "Ship things. Learn fast. Build what matters." — I build apps to solve real problems, then watch real people use them. That feedback loop is everything.
+
+Random facts
+
+* Write Swift by day, TypeScript by night
+* Think in components, dream in storyboards
+* Coffee-powered, deadline-driven
+* Believe the best app is the one that gets out of the user's way
