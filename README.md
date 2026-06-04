@@ -7,8 +7,9 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-
-<img src="https://iconic-api.onrender.com/dark/claude" width="40px" title="Claude" /> &nbsp; <img src="https://favicons.statusgator.com/rFjBbyjlqmAMJvcG.png" width="40px" title="Antigravity" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/packages/static-png/dark/codex.png" width="40px" title="Codex" />
+[![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![Antigravity](https://img.shields.io/badge/-Antigravity-6C3EB8?style=flat-square&logo=rocket&logoColor=white)](https://antigravity.dev)
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
 
 > Shipping mobile apps — iOS and Android — for real users, real companies, and real problems. Love the intersection of clean UI and AI. Currently building with Swift, React Native, and anything that makes products move faster.
 
