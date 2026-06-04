@@ -58,8 +58,9 @@
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-bluemann.netlify.app-0A0A0A?style=flat-square&logo=netlify&logoColor=white)](https://bluemann.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-Abhisek%20Ray-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisek-ray-b294a71a6/)
 [![X](https://img.shields.io/badge/-@AbhisekRay217-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AbhisekRay217)
-[![Email](https://img.shields.io/badge/-abhisekray41@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhisekray41@gmail.com)
+[![Email](https://img.shields.io/badge/-rayabhisek41@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rayabhisek41@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhisek-Ray99)
 
 ---
