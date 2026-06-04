@@ -60,7 +60,8 @@
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-bluemann.netlify.app-0A0A0A?style=flat-square&logo=netlify&logoColor=white)](https://bluemann.netlify.app/)
-[![Email](https://img.shields.io/badge/-abhisek@giskernel.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhisek@giskernel.com)
+[![X](https://img.shields.io/badge/-@AbhisekRay217-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AbhisekRay217)
+[![Email](https://img.shields.io/badge/-abhisekray41@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhisekray41@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhisek-Ray99)
 
 ---
